@@ -2,6 +2,8 @@
 
 An anonymized BI and operational analytics portfolio based on previous professional work in an engineering consulting environment.
 
+This repository is designed as a recruiter-facing portfolio demonstrating how I approach business intelligence, operational reporting, automation and stakeholder-driven analytics.
+
 This portfolio demonstrates how business intelligence, automated reporting and operational analytics can improve visibility, accountability and decision-making across sales, workforce planning and daily operations.
 
 Branding, values, names, team structures and sensitive details have been modified for confidentiality. The examples preserve the business logic and analytical approach without disclosing proprietary information.
@@ -9,6 +11,16 @@ Branding, values, names, team structures and sensitive details have been modifie
 ## Full Portfolio PDF
 
 [Download the full portfolio PDF](portfolio/Luis_Vergara__Operational_Analytics_Portfolio.pdf)
+
+## My Role
+
+For the original professional work behind these anonymized examples, I was responsible for requirements gathering, KPI design, data extraction, transformation logic, Power BI reporting, stakeholder feedback and ongoing dashboard improvement.
+
+The work combined business analysis, operational reporting, automated data pipelines and direct collaboration with managers, directors and operational teams.
+
+## Note on Source Code
+
+This repository focuses on anonymized dashboard case studies rather than production source code. Original code, data models and business data are not shared due to confidentiality.
 
 ## Case Studies
 
@@ -66,7 +78,7 @@ The dashboard was used to support daily team visibility and operational accounta
 - API-based data extraction
 - R and Python data pipelines
 - Operational KPI monitoring
-- Revenue leakage analysis
+- Revenue leakage risk analysis
 
 ![Daily Operations Dashboard](images/corporate_operations_dashboard_with_kpis.png)
 
