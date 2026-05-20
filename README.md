@@ -8,7 +8,7 @@ Branding, values, names, team structures and sensitive details have been modifie
 
 ## Full Portfolio PDF
 
-[Download the full portfolio PDF](portfolio/Luis_Vergara_Public_Safe_Operational_Analytics_Portfolio_Updated.pdf)
+[Download the full portfolio PDF](portfolio/Luis_Vergara_Operational_Analytics_Portfolio.pdf)
 
 ## Case Studies
 
@@ -48,7 +48,7 @@ The dashboard supported leadership and operational managers by connecting delive
 - Power BI and DAX
 - Stakeholder reporting
 
-![Business Health Check](images/corporate_business_health_dashboard_overview.png)
+![Business Health Check](images/business_health_check_dashboard_overview.png)
 
 ---
 
@@ -68,7 +68,7 @@ The dashboard was used to support daily team visibility and operational accounta
 - Operational KPI monitoring
 - Revenue leakage analysis
 
-![Daily Operations Dashboard](images/corporate_operations_dashboard_in_teal_tones.png)
+![Daily Operations Dashboard](images/corporate_operations_dashboard_with_kpis.png)
 
 ## Tools and Methods
 
