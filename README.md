@@ -8,7 +8,7 @@ Branding, values, names, team structures and sensitive details have been modifie
 
 ## Full Portfolio PDF
 
-[Download the full portfolio PDF](portfolio/Luis_Vergara_Operational_Analytics_Portfolio.pdf)
+[Download the full portfolio PDF](portfolio/Luis_Vergara__Operational_Analytics_Portfolio.pdf)
 
 ## Case Studies
 
